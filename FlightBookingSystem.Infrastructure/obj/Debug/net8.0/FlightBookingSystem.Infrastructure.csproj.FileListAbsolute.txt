@@ -1,0 +1,17 @@
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\bin\Debug\net8.0\FlightBookingSystem.Infrastructure.deps.json
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\bin\Debug\net8.0\FlightBookingSystem.Infrastructure.runtimeconfig.json
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\bin\Debug\net8.0\FlightBookingSystem.Infrastructure.dll
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\bin\Debug\net8.0\FlightBookingSystem.Infrastructure.pdb
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\bin\Debug\net8.0\FlightBookingSystem.Domain.dll
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\bin\Debug\net8.0\FlightBookingSystem.Domain.pdb
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\obj\Debug\net8.0\FlightBookingSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\obj\Debug\net8.0\FlightBookingSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\obj\Debug\net8.0\FlightBookingSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\obj\Debug\net8.0\FlightBookingSystem.Infrastructure.AssemblyInfo.cs
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\obj\Debug\net8.0\FlightBookingSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\obj\Debug\net8.0\FlightBo.053777E0.Up2Date
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\obj\Debug\net8.0\FlightBookingSystem.Infrastructure.dll
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\obj\Debug\net8.0\refint\FlightBookingSystem.Infrastructure.dll
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\obj\Debug\net8.0\FlightBookingSystem.Infrastructure.pdb
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\obj\Debug\net8.0\FlightBookingSystem.Infrastructure.genruntimeconfig.cache
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Infrastructure\obj\Debug\net8.0\ref\FlightBookingSystem.Infrastructure.dll

@@ -1,0 +1,14 @@
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Domain\bin\Debug\net8.0\FlightBookingSystem.Domain.deps.json
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Domain\bin\Debug\net8.0\FlightBookingSystem.Domain.runtimeconfig.json
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Domain\bin\Debug\net8.0\FlightBookingSystem.Domain.dll
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Domain\bin\Debug\net8.0\FlightBookingSystem.Domain.pdb
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Domain\obj\Debug\net8.0\FlightBookingSystem.Domain.csproj.AssemblyReference.cache
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Domain\obj\Debug\net8.0\FlightBookingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Domain\obj\Debug\net8.0\FlightBookingSystem.Domain.AssemblyInfoInputs.cache
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Domain\obj\Debug\net8.0\FlightBookingSystem.Domain.AssemblyInfo.cs
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Domain\obj\Debug\net8.0\FlightBookingSystem.Domain.csproj.CoreCompileInputs.cache
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Domain\obj\Debug\net8.0\FlightBookingSystem.Domain.dll
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Domain\obj\Debug\net8.0\refint\FlightBookingSystem.Domain.dll
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Domain\obj\Debug\net8.0\FlightBookingSystem.Domain.pdb
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Domain\obj\Debug\net8.0\FlightBookingSystem.Domain.genruntimeconfig.cache
+C:\FlightBookingSystem\FlightBookingSystem\FlightBookingSystem.Domain\obj\Debug\net8.0\ref\FlightBookingSystem.Domain.dll

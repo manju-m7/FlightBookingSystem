@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FlightBookingSystem\\FlightBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6599C1-E4B0-4203-B386-729D373E0544}|FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.application\\handlers\\getallflightshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6599C1-E4B0-4203-B386-729D373E0544}|FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj|solutionrelative:flightbookingsystem.application\\handlers\\getallflightshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AFA0C4-917C-49F7-9B3A-E90E483F2AB1}|FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.api\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0AFA0C4-917C-49F7-9B3A-E90E483F2AB1}|FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj|solutionrelative:flightbookingsystem.api\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AFA0C4-917C-49F7-9B3A-E90E483F2AB1}|FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0AFA0C4-917C-49F7-9B3A-E90E483F2AB1}|FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj|solutionrelative:flightbookingsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AFA0C4-917C-49F7-9B3A-E90E483F2AB1}|FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0AFA0C4-917C-49F7-9B3A-E90E483F2AB1}|FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj|solutionrelative:flightbookingsystem.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AFA0C4-917C-49F7-9B3A-E90E483F2AB1}|FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.api\\flightbookingsystem.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B0AFA0C4-917C-49F7-9B3A-E90E483F2AB1}|FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj|solutionrelative:flightbookingsystem.api\\flightbookingsystem.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AFA0C4-917C-49F7-9B3A-E90E483F2AB1}|FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0AFA0C4-917C-49F7-9B3A-E90E483F2AB1}|FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj|solutionrelative:flightbookingsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AFA0C4-917C-49F7-9B3A-E90E483F2AB1}|FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.api\\flightbookingsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0AFA0C4-917C-49F7-9B3A-E90E483F2AB1}|FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj|solutionrelative:flightbookingsystem.api\\flightbookingsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6599C1-E4B0-4203-B386-729D373E0544}|FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.application\\validators\\createflightcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6599C1-E4B0-4203-B386-729D373E0544}|FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj|solutionrelative:flightbookingsystem.application\\validators\\createflightcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38735DD3-B097-4B20-AAB0-7C141ED3A458}|FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.infrastructure\\migrations\\flightbookingdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38735DD3-B097-4B20-AAB0-7C141ED3A458}|FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj|solutionrelative:flightbookingsystem.infrastructure\\migrations\\flightbookingdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38735DD3-B097-4B20-AAB0-7C141ED3A458}|FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.infrastructure\\persistence\\flightbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38735DD3-B097-4B20-AAB0-7C141ED3A458}|FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj|solutionrelative:flightbookingsystem.infrastructure\\persistence\\flightbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91F1F28-2CA9-4C26-AAD2-CA3CDAACE44B}|FlightBookingSystem.Domain\\FlightBookingSystem.Domain.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.domain\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91F1F28-2CA9-4C26-AAD2-CA3CDAACE44B}|FlightBookingSystem.Domain\\FlightBookingSystem.Domain.csproj|solutionrelative:flightbookingsystem.domain\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38735DD3-B097-4B20-AAB0-7C141ED3A458}|FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.infrastructure\\flightbookingsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38735DD3-B097-4B20-AAB0-7C141ED3A458}|FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj|solutionrelative:flightbookingsystem.infrastructure\\flightbookingsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91F1F28-2CA9-4C26-AAD2-CA3CDAACE44B}|FlightBookingSystem.Domain\\FlightBookingSystem.Domain.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.domain\\flightbookingsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F91F1F28-2CA9-4C26-AAD2-CA3CDAACE44B}|FlightBookingSystem.Domain\\FlightBookingSystem.Domain.csproj|solutionrelative:flightbookingsystem.domain\\flightbookingsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6599C1-E4B0-4203-B386-729D373E0544}|FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.application\\flightbookingsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C6599C1-E4B0-4203-B386-729D373E0544}|FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj|solutionrelative:flightbookingsystem.application\\flightbookingsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46A334E-CF81-445D-80ED-7565B43A6262}|FlightBookingSystem.Bgs\\FlightBookingSystem.Bgs.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.bgs\\flightbookingsystem.bgs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C46A334E-CF81-445D-80ED-7565B43A6262}|FlightBookingSystem.Bgs\\FlightBookingSystem.Bgs.csproj|solutionrelative:flightbookingsystem.bgs\\flightbookingsystem.bgs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6599C1-E4B0-4203-B386-729D373E0544}|FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.application\\handlers\\createflighthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6599C1-E4B0-4203-B386-729D373E0544}|FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj|solutionrelative:flightbookingsystem.application\\handlers\\createflighthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6599C1-E4B0-4203-B386-729D373E0544}|FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.application\\handlers\\flightcreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6599C1-E4B0-4203-B386-729D373E0544}|FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj|solutionrelative:flightbookingsystem.application\\handlers\\flightcreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6599C1-E4B0-4203-B386-729D373E0544}|FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.application\\dtos\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6599C1-E4B0-4203-B386-729D373E0544}|FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj|solutionrelative:flightbookingsystem.application\\dtos\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38735DD3-B097-4B20-AAB0-7C141ED3A458}|FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.infrastructure\\messagebroker\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38735DD3-B097-4B20-AAB0-7C141ED3A458}|FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj|solutionrelative:flightbookingsystem.infrastructure\\messagebroker\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91F1F28-2CA9-4C26-AAD2-CA3CDAACE44B}|FlightBookingSystem.Domain\\FlightBookingSystem.Domain.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.domain\\events\\flightcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91F1F28-2CA9-4C26-AAD2-CA3CDAACE44B}|FlightBookingSystem.Domain\\FlightBookingSystem.Domain.csproj|solutionrelative:flightbookingsystem.domain\\events\\flightcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91F1F28-2CA9-4C26-AAD2-CA3CDAACE44B}|FlightBookingSystem.Domain\\FlightBookingSystem.Domain.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.domain\\aggregates\\flightaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91F1F28-2CA9-4C26-AAD2-CA3CDAACE44B}|FlightBookingSystem.Domain\\FlightBookingSystem.Domain.csproj|solutionrelative:flightbookingsystem.domain\\aggregates\\flightaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38735DD3-B097-4B20-AAB0-7C141ED3A458}|FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.infrastructure\\messagebroker\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38735DD3-B097-4B20-AAB0-7C141ED3A458}|FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj|solutionrelative:flightbookingsystem.infrastructure\\messagebroker\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46A334E-CF81-445D-80ED-7565B43A6262}|FlightBookingSystem.Bgs\\FlightBookingSystem.Bgs.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.bgs\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46A334E-CF81-445D-80ED-7565B43A6262}|FlightBookingSystem.Bgs\\FlightBookingSystem.Bgs.csproj|solutionrelative:flightbookingsystem.bgs\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46A334E-CF81-445D-80ED-7565B43A6262}|FlightBookingSystem.Bgs\\FlightBookingSystem.Bgs.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.bgs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46A334E-CF81-445D-80ED-7565B43A6262}|FlightBookingSystem.Bgs\\FlightBookingSystem.Bgs.csproj|solutionrelative:flightbookingsystem.bgs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46A334E-CF81-445D-80ED-7565B43A6262}|FlightBookingSystem.Bgs\\FlightBookingSystem.Bgs.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.bgs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C46A334E-CF81-445D-80ED-7565B43A6262}|FlightBookingSystem.Bgs\\FlightBookingSystem.Bgs.csproj|solutionrelative:flightbookingsystem.bgs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46A334E-CF81-445D-80ED-7565B43A6262}|FlightBookingSystem.Bgs\\FlightBookingSystem.Bgs.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.bgs\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C46A334E-CF81-445D-80ED-7565B43A6262}|FlightBookingSystem.Bgs\\FlightBookingSystem.Bgs.csproj|solutionrelative:flightbookingsystem.bgs\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91F1F28-2CA9-4C26-AAD2-CA3CDAACE44B}|FlightBookingSystem.Domain\\FlightBookingSystem.Domain.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.domain\\seedwork\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91F1F28-2CA9-4C26-AAD2-CA3CDAACE44B}|FlightBookingSystem.Domain\\FlightBookingSystem.Domain.csproj|solutionrelative:flightbookingsystem.domain\\seedwork\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38735DD3-B097-4B20-AAB0-7C141ED3A458}|FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.infrastructure\\repositories\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38735DD3-B097-4B20-AAB0-7C141ED3A458}|FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj|solutionrelative:flightbookingsystem.infrastructure\\repositories\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6599C1-E4B0-4203-B386-729D373E0544}|FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj|c:\\flightbookingsystem\\flightbookingsystem\\flightbookingsystem.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6599C1-E4B0-4203-B386-729D373E0544}|FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj|solutionrelative:flightbookingsystem.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Domain\\Entities\\Availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlightBookingSystem.Domain\\Entities\\Availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllFlightsHandler.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Application\\Handlers\\GetAllFlightsHandler.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Application\\Handlers\\GetAllFlightsHandler.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Application\\Handlers\\GetAllFlightsHandler.cs",
+              "RelativeToolTip": "FlightBookingSystem.Application\\Handlers\\GetAllFlightsHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:51:34.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Api\\Program.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Api\\Program.cs",
+              "RelativeToolTip": "FlightBookingSystem.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:41:38.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Api\\appsettings.Development.json",
+              "RelativeToolTip": "FlightBookingSystem.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T11:43:55.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Api\\appsettings.json",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Api\\appsettings.json",
+              "RelativeToolTip": "FlightBookingSystem.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T11:43:58.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlightBookingSystem.Api.csproj",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj",
+              "RelativeToolTip": "FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T11:48:51.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Api\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Api\\Controllers\\FlightController.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Api\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "FlightBookingSystem.Api\\Controllers\\FlightController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwCEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:42:45.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightBookingSystem.Api",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj",
+              "RelativeToolTip": "FlightBookingSystem.Api\\FlightBookingSystem.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T17:23:39.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlightBookingDbContext.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Infrastructure\\Persistence\\FlightBookingDbContext.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Infrastructure\\Persistence\\FlightBookingDbContext.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Infrastructure\\Persistence\\FlightBookingDbContext.cs",
+              "RelativeToolTip": "FlightBookingSystem.Infrastructure\\Persistence\\FlightBookingDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:42:45.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateFlightCommandValidator.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Application\\Validators\\CreateFlightCommandValidator.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Application\\Validators\\CreateFlightCommandValidator.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Application\\Validators\\CreateFlightCommandValidator.cs",
+              "RelativeToolTip": "FlightBookingSystem.Application\\Validators\\CreateFlightCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:10:43.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlightBookingDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Infrastructure\\Migrations\\FlightBookingDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Infrastructure\\Migrations\\FlightBookingDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Infrastructure\\Migrations\\FlightBookingDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FlightBookingSystem.Infrastructure\\Migrations\\FlightBookingDbContextModelSnapshot.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:05:06.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Domain\\Entities\\Flight.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Domain\\Entities\\Flight.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Domain\\Entities\\Flight.cs",
+              "RelativeToolTip": "FlightBookingSystem.Domain\\Entities\\Flight.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wBUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:57:30.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlightBookingSystem.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj",
+              "RelativeToolTip": "FlightBookingSystem.Infrastructure\\FlightBookingSystem.Infrastructure.csproj",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T11:42:14.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Availability.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Domain\\Entities\\Availability.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Domain\\Entities\\Availability.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Domain\\Entities\\Availability.cs",
+              "RelativeToolTip": "FlightBookingSystem.Domain\\Entities\\Availability.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:58:33.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FlightBookingSystem.Domain.csproj",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Domain\\FlightBookingSystem.Domain.csproj",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Domain\\FlightBookingSystem.Domain.csproj",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Domain\\FlightBookingSystem.Domain.csproj",
+              "RelativeToolTip": "FlightBookingSystem.Domain\\FlightBookingSystem.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T11:53:39.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlightBookingSystem.Application.csproj",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj",
+              "RelativeToolTip": "FlightBookingSystem.Application\\FlightBookingSystem.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T09:55:16.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FlightBookingSystem.Bgs.csproj",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Bgs\\FlightBookingSystem.Bgs.csproj",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Bgs\\FlightBookingSystem.Bgs.csproj",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Bgs\\FlightBookingSystem.Bgs.csproj",
+              "RelativeToolTip": "FlightBookingSystem.Bgs\\FlightBookingSystem.Bgs.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T11:38:07.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FlightCreatedEventHandler.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Application\\Handlers\\FlightCreatedEventHandler.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Application\\Handlers\\FlightCreatedEventHandler.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Application\\Handlers\\FlightCreatedEventHandler.cs",
+              "RelativeToolTip": "FlightBookingSystem.Application\\Handlers\\FlightCreatedEventHandler.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:42:45.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateFlightHandler.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Application\\Handlers\\CreateFlightHandler.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Application\\Handlers\\CreateFlightHandler.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Application\\Handlers\\CreateFlightHandler.cs",
+              "RelativeToolTip": "FlightBookingSystem.Application\\Handlers\\CreateFlightHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBQwBoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:42:45.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FlightDto.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Application\\DTOs\\FlightDto.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Application\\DTOs\\FlightDto.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Application\\DTOs\\FlightDto.cs",
+              "RelativeToolTip": "FlightBookingSystem.Application\\DTOs\\FlightDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:30:08.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RabbitMqPublisher.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Infrastructure\\MessageBroker\\RabbitMqPublisher.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Infrastructure\\MessageBroker\\RabbitMqPublisher.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Infrastructure\\MessageBroker\\RabbitMqPublisher.cs",
+              "RelativeToolTip": "FlightBookingSystem.Infrastructure\\MessageBroker\\RabbitMqPublisher.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:42:45.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FlightAggregate.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Domain\\Aggregates\\FlightAggregate.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Domain\\Aggregates\\FlightAggregate.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Domain\\Aggregates\\FlightAggregate.cs",
+              "RelativeToolTip": "FlightBookingSystem.Domain\\Aggregates\\FlightAggregate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwA8AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:57:11.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FlightCreatedEvent.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Domain\\Events\\FlightCreatedEvent.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Domain\\Events\\FlightCreatedEvent.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Domain\\Events\\FlightCreatedEvent.cs",
+              "RelativeToolTip": "FlightBookingSystem.Domain\\Events\\FlightCreatedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:42:45.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Bgs\\appsettings.json",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Bgs\\appsettings.json",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Bgs\\appsettings.json",
+              "RelativeToolTip": "FlightBookingSystem.Bgs\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T16:52:38.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Bgs\\Program.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Bgs\\Program.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Bgs\\Program.cs",
+              "RelativeToolTip": "FlightBookingSystem.Bgs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:52:11.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RabbitMqSettings.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Infrastructure\\MessageBroker\\RabbitMqSettings.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Infrastructure\\MessageBroker\\RabbitMqSettings.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Infrastructure\\MessageBroker\\RabbitMqSettings.cs",
+              "RelativeToolTip": "FlightBookingSystem.Infrastructure\\MessageBroker\\RabbitMqSettings.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:50:49.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RabbitMqConsumer.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Bgs\\RabbitMqConsumer.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Bgs\\RabbitMqConsumer.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Bgs\\RabbitMqConsumer.cs",
+              "RelativeToolTip": "FlightBookingSystem.Bgs\\RabbitMqConsumer.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:48:00.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Bgs\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Bgs\\appsettings.Development.json",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Bgs\\appsettings.Development.json",
+              "RelativeToolTip": "FlightBookingSystem.Bgs\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T16:52:41.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FlightRepository.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Infrastructure\\Repositories\\FlightRepository.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Infrastructure\\Repositories\\FlightRepository.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Infrastructure\\Repositories\\FlightRepository.cs",
+              "RelativeToolTip": "FlightBookingSystem.Infrastructure\\Repositories\\FlightRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:42:45.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "FlightBookingSystem.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:42:45.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Domain\\SeedWork\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "FlightBookingSystem.Domain\\SeedWork\\AggregateRoot.cs",
+              "ToolTip": "C:\\FlightBookingSystem\\FlightBookingSystem\\FlightBookingSystem.Domain\\SeedWork\\AggregateRoot.cs",
+              "RelativeToolTip": "FlightBookingSystem.Domain\\SeedWork\\AggregateRoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:42:45.099Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 960,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
